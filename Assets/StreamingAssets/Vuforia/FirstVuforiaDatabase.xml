@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PillsV2ImageTarget" size="5.000000 6.753160" />
+    <ImageTarget name="Watchimagetarget" size="5.000000 6.859886" />
+    <ImageTarget name="PillsImageTarget" size="5.000000 6.860236" />
+    <ImageTarget name="CarimageTarget" size="5.000000 7.308307" />
+    <ImageTarget name="Shoes" size="5.000000 7.199853" />
+    <ImageTarget name="ShoeBox" size="5.000000 6.742268" />
+    <ImageTarget name="Headphones" size="5.000000 6.842610" />
+    <ImageTarget name="Chocolate" size="5.000000 8.005687" />
+  </Tracking>
+</QCARConfig>
